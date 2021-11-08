@@ -1,0 +1,33 @@
+﻿.user-pic {
+  width: 32px;
+  height: 32px;
+}
+
+.user-pic-article {
+  width: 50px;
+  height: 50px;
+}
+
+.user-avatar {
+  width: 100px;
+  height: 100px;
+}
+
+.navbar-brand,
+h1,
+.author {
+  font-family: 'Titillium Web';
+}
+
+.banner {
+  color: white;
+}
+
+.banner h1 {
+  font-family: 'Titillium Web';
+  color: white;
+}
+
+.tag-list {
+  padding-left: 0;
+}
